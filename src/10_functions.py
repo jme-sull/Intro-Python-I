@@ -25,3 +25,8 @@ def evenPrint(n):
 
 print(evenPrint(num))
 
+
+##Find a prime number 
+num = input("Enter a number: ")
+num = int(num)
+
